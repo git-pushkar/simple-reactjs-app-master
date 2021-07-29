@@ -1,0 +1,10 @@
+{
+	"id": 2,
+	"name": "Amazon S3",
+	"region": "EU (Frankfurt)",
+	"regioncode": "eu-central-1",
+	"country": "Germany",
+	"category": "STORAGE",
+	"details": "5 GB of standard storage",
+	"additionalInfo": "Secure, durable, and scalable object storage infrastructure."
+}

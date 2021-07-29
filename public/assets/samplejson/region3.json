@@ -1,0 +1,10 @@
+{
+	"id": 3,
+	"name": "Amazon RDS",
+	"region": "US East (N. Virginia)",
+	"regioncode": "us-east-1",
+	"country": "United States",
+	"category": "DATABASE",
+	"details": "750 Hours per month of db.t2.micro database usage (applicable DB engines)",
+	"additionalInfo": "Managed Relational Database Service for MySQL, PostgreSQL, MariaDB, Oracle BYOL, or SQL Server."
+}

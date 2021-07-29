@@ -1,0 +1,13 @@
+[{
+	"id": 1,
+	"region": "Asia Pacific - Mumbai",
+	"regioncode": "ap-south-1"
+}, {
+	"id": 2,
+	"region": "EU - Frankfurt",
+	"regioncode": "eu-central"
+}, {
+	"id": 3,
+	"region": "US East (N. Virginia)",
+	"regioncode": "us-east"
+}]
